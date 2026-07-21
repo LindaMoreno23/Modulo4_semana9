@@ -1,0 +1,12 @@
+Las plataformas tecnológicas que utilizan las comunidades 
+deben funcionar de manera estable y segura para garantizar un servicio 
+confiable a todos sus usuarios. Un servidor estable evita interrupciones que puedan
+ afectar la comunicación, el acceso a la información o la realización de actividades 
+ importantes. Además, la seguridad protege los datos personales y previene accesos no 
+ autorizados que podrían poner en riesgo la información. También es fundamental mantener 
+ registros de actividad y monitorear el servidor para detectar posibles fallos o ataques. 
+ Una buena administración del servidor mejora el rendimiento y la disponibilidad de la 
+ plataforma. De igual manera, mantener el software actualizado reduce las vulnerabilidades 
+ de seguridad. En conclusión, contar con servidores seguros y estables fortalece la 
+ confianza de la comunidad y permite ofrecer servicios tecnológicos de manera continua, 
+ eficiente y responsable.
